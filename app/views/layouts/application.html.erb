@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog</title>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+  <nav class="navigation">
+    <ul class="header">
+      <li><%= link_to t('.home_link'), root_path %></li>
+      <li><%= link_to t('.about_link'), about_path %></li>
+      <li><%= link_to t('.static_blog_link'), static_blog_path %></li>
+      <li><%= link_to t('.dynamic_blog_link'), posts_path %></li>
+    </ul>
+  </nav>
+
+  <div class="wrapper">
+    <div class="container">
+      <%= yield %>
+    </div>
+    <footer>
+      <p><%= t('.language_options') %></p>
+      <ul>
+        <li><%= link_to 'English', :locale => :en %></li>
+        <li><%= link_to 'Japanese', :locale => :jp %></li>
+        <li><%= link_to 'Chinese', :locale => :zh_CN %></li>
+        <li><%= link_to 'German', :locale => :de %></li>
+        <!-- You add links to veiw the page in new locales here-->
+      </ul>
+    </footer>
+  </div>
+
+</body>
+</html>

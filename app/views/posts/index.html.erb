@@ -1,0 +1,24 @@
+<% if (@posts.count != 0) %>
+   
+  <% @posts.each do |post| %>
+    <h2><%= link_to post.title, post_path(post) %></h2>
+    <figure>
+      <%= image_tag post.img_url, width: "800px" %>
+    </figure>
+    <p class="credits"><%= post.author %> <span class="float-right"><%= post.created_at%></span></p>
+    <p>
+      <%= post.body %>
+    </p>
+  <% end %>
+
+<% else %>
+
+  <h1 class="NoPost">There are no posts yet. You can create one to find your lost samoyed here.</h1>
+  
+  <img class="img1" src="http://wallpapers111.com/wp-content/uploads/2015/01/Samoyed-Dog-Wallpapers0.jpg">
+
+<% end %>
+
+<%= link_to t( 'posts.index.index_newpost' ), new_post_path %>
+
+

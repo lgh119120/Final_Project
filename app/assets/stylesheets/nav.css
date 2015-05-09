@@ -1,0 +1,38 @@
+{
+   margin: 0;   
+   padding: 0; 
+} 
+nav {
+	border: 0px;
+	color: #777;
+	border-radius: 3px;
+	overflow: hidden;
+	margin: 50px;
+}
+
+ul {
+	display: inline-block;
+
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 0 5px 0 5px;
+	height: 25px;
+	padding: 0 20px;
+}
+
+li a {
+		text-decoration: none;   
+   color: #ccc;   
+   font: 25px/1 Helvetica, Verdana, sans-serif;   
+   text-transform: uppercase; 
+}
+li a:hover {
+   color: #666; 
+}       
+
+li.active a {
+   font-weight: bold;   
+   color: #333; 

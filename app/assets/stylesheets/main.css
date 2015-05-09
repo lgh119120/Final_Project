@@ -1,0 +1,177 @@
+html,
+
+body {
+	margin:50;
+   padding:0;
+   height:100%;
+}
+
+body {
+	font-family: Comic Sans MS;
+    color: #777;
+}
+
+.wrapper {
+   min-height:100%;
+   position:relative;
+}
+
+.container {
+	max-width: 800px;
+	margin: auto;
+	overflow: auto;
+	padding: 10px;
+	padding-bottom: 40px;   /* Height of the footer */
+}
+
+footer {
+   position:absolute;
+   font:25px/1 Comic Sans MS;  
+   bottom:0;
+   left: 10px;
+   width:1000px;
+   height:40px;   /* Height of the footer */
+}
+
+
+h1, {
+	color: #000000 ;
+}
+
+h2 a {
+	color: #000000 ;
+}
+
+.title {
+	margin-bottom: 10px;
+}
+
+.sub-title {
+	margin-left: 20px;
+	margin-top: 0;
+}
+
+figcaption {
+	margin-left: 20px;
+	font-size: 13px;
+}
+
+.credits {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 1px solid #E7E7E7;
+	border-bottom: 1px solid #E7E7E7;
+}
+
+.float-left {
+	float: top;
+}
+
+aside {
+	float: top;
+}
+
+aside img {
+	width: 300px;
+	margin-right: 300px
+}
+
+a {
+	text-decoration: none;
+	color: royalblue;
+}
+
+label {
+	width: 230px;
+	display: inline-block;
+}
+
+input {
+	width: 100%;
+	border-radius: 3px;
+	border-style: none;
+	border: 1px solid #999;
+}
+
+textarea {
+	min-width: 350px;
+	min-height: 200px;
+}
+
+figure {
+	padding: 0;
+	margin: 0;
+}
+
+article {
+	line-height: 1.2em;
+}
+
+footer a {
+	color: #777;
+}
+
+footer a:hover {
+	color: royalblue;
+}
+
+footer p {
+	display: inline-block;
+}
+
+footer ul {
+	display: inline-block;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+table{
+		border:1px solid;
+}
+
+td{
+		vertical-align: top;
+}
+
+.img1{
+	width: 100%;
+	border-bottom: solid greenyellow 20px;
+	border-top: solid greenyellow 20px;
+}
+
+.NoPost{
+	font: 100% Helvetica, sans-serif;
+    color: forest green;
+    font-size: 36px;
+}
+
+nav img{
+	border:10px solid black;
+}
+
+.img1{
+	width: 100%;
+	border-bottom: solid greenyellow 20px;
+	border-top: solid greenyellow 20px;
+}
+
+.NoPost{
+	font: 100% Helvetica, sans-serif;
+    color: forest green;
+    font-size: 36px;
+}
+
+.blueberrytext{
+		display: none;
+	}
+	.shanghaitext{
+		display:none;
+	}
+	.chocolatetext{
+		display:none;
+	}
+	.dogfoodtext{
+		display:none;
+	}
+
+
