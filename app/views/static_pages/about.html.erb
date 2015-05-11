@@ -4,21 +4,21 @@
 
 <nav >
 	<li class="blueberry"><%= image_tag("Blueberry.jpg", width: "300px",height: "300px") %></li>
-	<li class="blueberrytext">Blueberry is a good food for your beloved dog. The juicy fruits are good for they eyes</li>
+	<li class="blueberrytext"><%= t( 'static_pages.about.about_page_blueberry' ) %></li>
 
 	<li class="shanghai"><%= image_tag("Shanghai_Cabbage.jpg", width: "300px",height: "300px") %></li>
-	<div class="shanghaitext">Dogs don't like vegetables. Don't feed them what you do not like.</div>
+	<div class="shanghaitext"><%= t( 'static_pages.about.about_page_shanghai' ) %></div>
 
 	<li class="chocolate"><%= image_tag("Chocolate.jpg", width: "300px",height: "300px") %></li>
-	<div class="chocolatetext">Are you kidding me? Show mercy to those lovely creatures.</div>
+	<div class="chocolatetext"><%= t( 'static_pages.about.about_page_chocolate' ) %></div>
 
 	<li class="dogfood"><%= image_tag("Dog_Food.jpg", width: "300px",height: "300px") %></li>
-	<div class="dogfoodtext">Dogs need them, whether they like it or not.</div>
+	<div class="dogfoodtext"><%= t( 'static_pages.about.about_page_dogfood' ) %></div>
 	
 </nav>
 
 <p>
-		Have you made the right choice? Don't worry, but really be careful with a real dog.
+		<%= t( 'static_pages.about.about_page_desc3' ) %>
 </p>
 
 <script src="application.js"></script>

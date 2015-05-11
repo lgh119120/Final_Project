@@ -34,7 +34,7 @@ jp:
       new_post_btn: "新しいポスト"
     new:
       title: " 彼/彼女の名前 "
-      img_url: "彼/彼女のPIC （ URL "
+      img_url: "彼/彼女の写真 （URL) "
       page_title: "あなたが見てきました...??"
       author: "著者（電子メール）"
       body: "説明"

@@ -22,6 +22,11 @@ en:
       about_page_header: "Food"
       about_page_desc: "Which of the following food you can feed your Samoyed?"
       about_page_desc2: "If you think your Samoyed can eat the food, choose it by clicking on the picture."
+      about_page_desc3: "Have you made the right choice? Don't worry, but really be careful with a real dog."
+      about_page_blueberry: "Blueberry is a good food for your beloved dog. The juicy fruits are good for they eyes"
+      about_page_shanghai: "Dogs don't like vegetables. Don't feed them what you do not like."
+      about_page_chocolate: "Are you kidding me? Show mercy to those lovely creatures."
+      about_page_dogfood: "Dogs need them, whether they like it or not."
     blog:
       blog_header2: "The Beginning"
       blog_content1: "The Samoyed is considered one of the oldest and most beautiful breeds in existence! Despite its attractive appearance and look of elegance (with its tail carried over the back), the Samoyed is a very hardy breed. Originally from the north of Russia and Siberia, the Samoyed pulled sledges and herded reindeer for the Samoyed tribes, those responsible for the breed’s formation. Although not known for its hunting skill, by working in a pack, the Samoyed could frighten and contain even the great polar bear! In addition, because of his double coat, the Samoyed was probably used from early times to warm his master and family in cold weather. Man harnessed the Samoyed’s enthusiasm, adaptability for work in harsh climates, intelligence, and ability to understand him and made the Samoyed into a working partner. In return, the Samoyed received food, friendship, and was welcomed into the caves or tents at night as an ally. From its beginnings thousands of years ago, the Samoyed has a long and historically significant association with man. Over time, pure white, cream, all biscuit, or white and biscuit became the acceptable coat colors. (See the Official Standard for the Samoyed in The Complete Dog Book of the American Kennel Club as referenced at the end of this article.) The early Samoyeds contained black as well as brown dogs. Although many of today’s Samoyeds are groomed to perfection, particularly the Samoyeds exhibited in the conformation show ring, it may be hard to believe that the early Samoyed dogs were probably heavily matted in sections, although the sun served as a bleaching agent. As reported by Edwin Noble on page 214 of The Dog Lover’s Book, circa 1904, “All of them in their native homes and amongst their own kind never bark; they only utter howls, resembling in this the wolf. But those that have been bred and reared in this country [England] in many cases acquire the art of barking."
@@ -34,6 +39,7 @@ en:
     index:
       index_newpost: "Click here to FIND him/her now!"
       new_post_btn: "New Post"
+      NoPost: "There are no posts yet. You can create one to find your lost samoyed here."
     new:
       title: "His/her name"
       img_url: "His/her pic (url)"
