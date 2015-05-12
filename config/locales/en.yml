@@ -33,7 +33,7 @@ en:
       blog_header3: "The Polar Expeditions and Royal Connections"
       blog_content4: "The polar expeditions demonstrated the versatility and true working nature of the Samoyed and the contributions made by the Samoyeds are unmatched in the canine world. Samoyeds featured prominently in the Arctic and Antarctic polar expeditions of Abruzzi, Amundson, Jackson-Harmsworth, Nansen, and Shackelton between 1870 and 1912. Dogs were procured from Siberia for the expeditions and were called “Samoyeds” as they came from the land where the Samoyede tribe lived. With the passing of time, the “e” was dropped from “Samoyede.” The draft animals proved more capable than ponies, horses, oxen, or mules in the Arctic and Antarctic and, on a per weight basis, did not consume as much food and could travel longer distances before tiring. Because of its adaptability to cold temperatures, a cousin of the Samoyed, the Laika dog, was the first canine used in outer space; this occurred when the Russians launched a Sputnik satellite on November 3, 1957 with a Laika dog aboard as the lone passenger. A beautiful breed, the Samoyed appeared in the courts of Czar Alexander III of Russia and Queen Alexandra of England over a century ago. The First Imports into the United States The first Samoyed registered with The American Kennel Club in the United States, Russian Champion Moustan of Argenteau, came from St. Petersburg, Russia from Grand Duke Nicholas, a brother of the Czar. Survivors and descendants of the polar expedition sledge teams were bred in England for their beauty as well as their working attributes. Ms. Ivy Kilburn-Scott was very instrumental in establishing the breed in England with her selective breeding of Samoyeds. It was around this time, that black and brown were eliminated from breeding pools although pictures remain of Peter the Great and his offspring (some were black) who competed successfully in the conformation ring in England. Almost all Samoyeds living today in the United States can be traced back to about 12 key dogs that were used in early breeding programs in England. One of the truly great sires in the breed was English Champion Kara Sea, who figured prominently in many breeding programs on both sides of the Atlantic Ocean."
       blog_header1: "History of the Samoyed Breed"
-      blog_credits: "By Annie Reid"
+      blog_credits: "By Yunrong Gu "
       blog_time: "May. 3, 2015 | 16:42 p.m. PST"
   posts:
     index:
@@ -48,3 +48,5 @@ en:
       body: "Description"
       create_btn: "Create Post"
       back_btn: "Back"
+    show:
+      back_btn: "Back to Posts"

@@ -19,6 +19,11 @@ jp:
       about_page_header: "食品"
       about_page_desc: "なたのサモエドを養うことができ、次の食品はどれ?"
       about_page_desc2: "あなたのサモエドは、食べ物を食べる画像をクリックして、それを選択することができると思う場合."
+      about_page_desc3: "あなたは正しい選択をしたことがありますか？心配したが、実際に本物の犬に注意してくださいしないでください。"
+      about_page_blueberry: "ブルーベリーは、あなたの最愛の犬のために良い食品です。"
+      about_page_shanghai: "犬は野菜が好きではありません。あなたが好きではないものを、それらを餌を与えないでください。"
+      about_page_chocolate: "私をからかってるの？これらの美しい生き物に慈悲を表示します。"
+      about_page_dogfood: "彼らはそれを好きかどうか犬は、それらを必要とします。"
     blog:
 
       blog_header2: "先頭"
@@ -32,6 +37,7 @@ jp:
     index:
       index_newpost: "今、彼/彼女のFINDするには、ここをクリックしてください"
       new_post_btn: "新しいポスト"
+      NoPost: "投稿はまだありません。あなたは1つがあなたがここでサモエド失わ見つけるために作成することができます。"
     new:
       title: " 彼/彼女の名前 "
       img_url: "彼/彼女の写真 （URL) "
@@ -40,3 +46,5 @@ jp:
       body: "説明"
       create_btn: "投稿を作成"
       back_btn: "バック"
+    show:
+      back_btn: "戻るの投稿へ"

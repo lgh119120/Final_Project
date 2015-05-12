@@ -22,6 +22,11 @@ de:
       about_page_header: "Lebensmittel"
       about_page_desc: "Welche der folgenden Lebensmittel können Sie Ihre Samojeden füttern?"
       about_page_desc2: "Wenn Sie glauben, Ihre Samojeden können die Nahrung zu essen, wählen Sie es, indem Sie auf das Bild."
+      about_page_desc3: "Haben Sie die richtige Wahl getroffen Mach dir keine Sorgen, aber wirklich vorsichtig sein, mit einem Hund?"
+      about_page_blueberry: "Blueberry ist eine gute Nahrung für Ihren geliebten Hund Die saftigen Früchte sind gut für sie die Augen."
+      about_page_shanghai: "Hunde nicht gerne Gemüse Sie füttern sie nicht das, was Sie nicht mögen."
+      about_page_chocolate: "Willst du mich verarschen Barmherzigkeit zu diesen reizenden Geschöpfe?"
+      about_page_dogfood: "Hunde brauchen sie, ob sie es wollen oder nicht."
     blog:
 
       blog_header2: "Anfang Anfang"
@@ -35,6 +40,7 @@ de:
     index:
       index_newpost: "Klicken Sie hier, um ihn / sie jetzt FINDEN!"
       new_post_btn: "neuer Beitrag"
+      NoPost: "Es gibt noch keine Beiträge. Sie können erstellen eine zu finden, Ihre verlorenen samoyed hier."
     new:
       title: " Seinen / ihren Namen "
       img_url: "Sein / ihr Bild (url)"
@@ -43,3 +49,5 @@ de:
       body: "Beschreibung"
       create_btn: "Beitrag erstellen"
       back_btn: "zurück"
+    show:
+      back_btn: "Zurück zu Beiträge"
