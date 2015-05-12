@@ -3,7 +3,7 @@ bro:
   layouts:
     application:
       home_link: "Home"
-      about_link: "About"
+      food_link: "food"
   static_pages:
     home:
       home_intro: "Do you even lift, bro?"

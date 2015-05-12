@@ -3,13 +3,13 @@ de:
     application:
       home_link: "Zuhause"
 
-      about_link: "Zuhause"
+      food_link: "Zuhause"
 
 
-      static_blog_link: "Geschichte"
+      history_link: "Geschichte"
       dynamic_blog_link: " Finden Sie verlorene Samoyed"
 
-      about_link: "Lebensmittel"
+      food_link: "Lebensmittel"
 
 
       language_options: "Diese Seite in"
@@ -18,15 +18,15 @@ de:
       home_intro: "Samojeden Unterstützung "
       home_intro_2: "Unsere Mission ist, als Service-Organisation, die Ressourcen, Unterstützung, Vernetzung und Beratung zu bestehenden Samojeden Retter zu helfen und helfen bei der Festlegung neuer Rettungsgruppen in Bereichen ohne Deckung zu handeln. Durch die Förderung der Beziehungen zwischen den Rettungen und regionalen Zuchtvereine, Züchter und Liebhaber, will man zu einer einheitlichen einzigen Bezugspunkt für die Samojeden Rettungs Gemeinschaft bieten. "
       home_intro_3: "Wir bemühen uns, die humane, ethische und effektive Rettung von Samojeden in Not durch die Begründung und Überprüfung der Praktiken mit ihr verbundenen rettet 'aktivieren wodurch gewährleistet wird, dass Unterstände, menschliche Gesellschaften, und die breite Öffentlichkeit sind zuversichtlich, in ihrer lokalen Samojeden Rettungs Vertreter."
-    about:
-      about_page_header: "Lebensmittel"
-      about_page_desc: "Welche der folgenden Lebensmittel können Sie Ihre Samojeden füttern?"
-      about_page_desc2: "Wenn Sie glauben, Ihre Samojeden können die Nahrung zu essen, wählen Sie es, indem Sie auf das Bild."
-      about_page_desc3: "Haben Sie die richtige Wahl getroffen Mach dir keine Sorgen, aber wirklich vorsichtig sein, mit einem Hund?"
-      about_page_blueberry: "Blueberry ist eine gute Nahrung für Ihren geliebten Hund Die saftigen Früchte sind gut für sie die Augen."
-      about_page_shanghai: "Hunde nicht gerne Gemüse Sie füttern sie nicht das, was Sie nicht mögen."
-      about_page_chocolate: "Willst du mich verarschen Barmherzigkeit zu diesen reizenden Geschöpfe?"
-      about_page_dogfood: "Hunde brauchen sie, ob sie es wollen oder nicht."
+    food:
+      food_page_header: "Lebensmittel"
+      food_page_desc: "Welche der folgenden Lebensmittel können Sie Ihre Samojeden füttern?"
+      food_page_desc2: "Wenn Sie glauben, Ihre Samojeden können die Nahrung zu essen, wählen Sie es, indem Sie auf das Bild."
+      food_page_desc3: "Haben Sie die richtige Wahl getroffen Mach dir keine Sorgen, aber wirklich vorsichtig sein, mit einem Hund?"
+      food_page_blueberry: "Blueberry ist eine gute Nahrung für Ihren geliebten Hund Die saftigen Früchte sind gut für sie die Augen."
+      food_page_shanghai: "Hunde nicht gerne Gemüse Sie füttern sie nicht das, was Sie nicht mögen."
+      food_page_chocolate: "Willst du mich verarschen Barmherzigkeit zu diesen reizenden Geschöpfe?"
+      food_page_dogfood: "Hunde brauchen sie, ob sie es wollen oder nicht."
     blog:
 
       blog_header2: "Anfang Anfang"

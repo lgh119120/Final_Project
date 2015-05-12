@@ -2,8 +2,8 @@ Rails.application.routes.draw do
 
   scope "(:locale)" do
     root :to => "static_pages#home"
-    get 'about' => "static_pages#about"
-    get 'static_blog' => "static_pages#blog"
+    get 'food' => "static_pages#food"
+    get 'history' => "static_pages#blog"
     resources :posts
   end
 

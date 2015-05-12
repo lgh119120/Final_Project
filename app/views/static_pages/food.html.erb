@@ -1,0 +1,70 @@
+<h1><%= t( 'static_pages.food.food_page_header' ) %></h1>
+<p><%= t( 'static_pages.food.food_page_desc' ) %></p>
+<p><%= t( 'static_pages.food.food_page_desc2' ) %></p>
+
+<nav >
+	<li class="blueberry"><%= image_tag("Blueberry.jpg", width: "300px",height: "300px") %></li>
+	<li class="blueberrytext"><%= t( 'static_pages.food.food_page_blueberry' ) %></li>
+
+	<li class="shanghai"><%= image_tag("Shanghai_Cabbage.jpg", width: "300px",height: "300px") %></li>
+	<div class="shanghaitext"><%= t( 'static_pages.food.food_page_shanghai' ) %></div>
+
+	<li class="chocolate"><%= image_tag("Chocolate.jpg", width: "300px",height: "300px") %></li>
+	<div class="chocolatetext"><%= t( 'static_pages.food.food_page_chocolate' ) %></div>
+
+	<li class="dogfood"><%= image_tag("Dog_Food.jpg", width: "300px",height: "300px") %></li>
+	<div class="dogfoodtext"><%= t( 'static_pages.food.food_page_dogfood' ) %></div>
+	
+</nav>
+
+<p>
+		<%= t( 'static_pages.food.food_page_desc3' ) %>
+</p>
+
+<script src="application.js"></script>
+
+<script type="text/javascript">
+	var blueberry=document.querySelector(".blueberry")
+var shanghai=document.querySelector(".shanghai")
+var chocolate=document.querySelector(".chocolate")
+var dogfood=document.querySelector(".dogfood")
+
+var blueberrytext=document.querySelector(".blueberrytext")
+var shanghaitext=document.querySelector(".shanghaitext")
+var	chocolatetext=document.querySelector(".chocolatetext")
+var dogfoodtext=document.querySelector(".dogfoodtext")
+
+blueberry.addEventListener("click",showblueberrytext)
+shanghai.addEventListener("click",showshanghaitext)
+chocolate.addEventListener("click",showchocolatetext)
+dogfood.addEventListener("click",showdogfoodtext)
+
+
+function showblueberrytext() {
+	blueberrytext.style.display="block"
+	shanghaitext.style.display="none"
+	chocolatetext.style.display="none"
+	dogfoodtext.style.display="none"
+
+}
+function showshanghaitext() {
+	shanghaitext.style.display="block"
+	blueberrytext.style.display="none"
+	chocolatetext.style.display="none"
+	dogfoodtext.style.display="none"
+	
+}
+
+function showchocolatetext() {
+	chocolatetext.style.display="block"
+	blueberrytext.style.display="none"
+	shanghaitext.style.display="none"
+	dogfoodtext.style.display="none"
+}
+function showdogfoodtext() {
+	dogfoodtext.style.display="block"
+	blueberrytext.style.display="none"
+	shanghaitext.style.display="none"
+	chocolatetext.style.display="none"
+}
+</script>

@@ -3,13 +3,13 @@ en:
     application:
       home_link: "Home"
 
-      about_link: "Food"
+      food_link: "Food"
 
 
-      static_blog_link: "History"
+      history_link: "History"
       dynamic_blog_link: "Find Lost Samoyed"
 
-      about_link: "Food"
+      food_link: "Food"
 
 
       language_options: "VIEW THIS PAGE IN"
@@ -18,20 +18,20 @@ en:
       home_intro: "Samoyed Support"
       home_intro_2: "Our mission is to act as a service organization providing resources, support, networking, and guidance to assist existing Samoyed rescuers and help establish new rescue groups in areas lacking coverage. By fostering relations between rescues and regional breed clubs, breeders, and fanciers, we seeks to provide a unified single point of reference for the Samoyed rescue community. "
       home_intro_3: "We strive to enable the humane, ethical, and effective rescue of Samoyeds in need through the substantiation & verification of its affiliated rescues' practices thereby ensuring that shelters, humane societies, and the general public are confident in their local Samoyed rescue representatives."
-    about:
-      about_page_header: "Food"
-      about_page_desc: "Which of the following food you can feed your Samoyed?"
-      about_page_desc2: "If you think your Samoyed can eat the food, choose it by clicking on the picture."
-      about_page_desc3: "Have you made the right choice? Don't worry, but really be careful with a real dog."
-      about_page_blueberry: "Blueberry is a good food for your beloved dog. The juicy fruits are good for they eyes"
-      about_page_shanghai: "Dogs don't like vegetables. Don't feed them what you do not like."
-      about_page_chocolate: "Are you kidding me? Show mercy to those lovely creatures."
-      about_page_dogfood: "Dogs need them, whether they like it or not."
+    food:
+      food_page_header: "Food"
+      food_page_desc: "Which of the following food you can feed your Samoyed?"
+      food_page_desc2: "If you think your Samoyed can eat the food, choose it by clicking on the picture."
+      food_page_desc3: "Have you made the right choice? Don't worry, but really be careful with a real dog."
+      food_page_blueberry: "Blueberry is a good food for your beloved dog. The juicy fruits are good for they eyes"
+      food_page_shanghai: "Dogs don't like vegetables. Don't feed them what you do not like."
+      food_page_chocolate: "Are you kidding me? Show mercy to those lovely creatures."
+      food_page_dogfood: "Dogs need them, whether they like it or not."
     blog:
       blog_header2: "The Beginning"
       blog_content1: "The Samoyed is considered one of the oldest and most beautiful breeds in existence! Despite its attractive appearance and look of elegance (with its tail carried over the back), the Samoyed is a very hardy breed. Originally from the north of Russia and Siberia, the Samoyed pulled sledges and herded reindeer for the Samoyed tribes, those responsible for the breed’s formation. Although not known for its hunting skill, by working in a pack, the Samoyed could frighten and contain even the great polar bear! In addition, because of his double coat, the Samoyed was probably used from early times to warm his master and family in cold weather. Man harnessed the Samoyed’s enthusiasm, adaptability for work in harsh climates, intelligence, and ability to understand him and made the Samoyed into a working partner. In return, the Samoyed received food, friendship, and was welcomed into the caves or tents at night as an ally. From its beginnings thousands of years ago, the Samoyed has a long and historically significant association with man. Over time, pure white, cream, all biscuit, or white and biscuit became the acceptable coat colors. (See the Official Standard for the Samoyed in The Complete Dog Book of the American Kennel Club as referenced at the end of this article.) The early Samoyeds contained black as well as brown dogs. Although many of today’s Samoyeds are groomed to perfection, particularly the Samoyeds exhibited in the conformation show ring, it may be hard to believe that the early Samoyed dogs were probably heavily matted in sections, although the sun served as a bleaching agent. As reported by Edwin Noble on page 214 of The Dog Lover’s Book, circa 1904, “All of them in their native homes and amongst their own kind never bark; they only utter howls, resembling in this the wolf. But those that have been bred and reared in this country [England] in many cases acquire the art of barking."
       blog_header3: "The Polar Expeditions and Royal Connections"
-      blog_content4: "The polar expeditions demonstrated the versatility and true working nature of the Samoyed and the contributions made by the Samoyeds are unmatched in the canine world. Samoyeds featured prominently in the Arctic and Antarctic polar expeditions of Abruzzi, Amundson, Jackson-Harmsworth, Nansen, and Shackelton between 1870 and 1912. Dogs were procured from Siberia for the expeditions and were called “Samoyeds” as they came from the land where the Samoyede tribe lived. With the passing of time, the “e” was dropped from “Samoyede.” The draft animals proved more capable than ponies, horses, oxen, or mules in the Arctic and Antarctic and, on a per weight basis, did not consume as much food and could travel longer distances before tiring. Because of its adaptability to cold temperatures, a cousin of the Samoyed, the Laika dog, was the first canine used in outer space; this occurred when the Russians launched a Sputnik satellite on November 3, 1957 with a Laika dog aboard as the lone passenger. A beautiful breed, the Samoyed appeared in the courts of Czar Alexander III of Russia and Queen Alexandra of England over a century ago. The First Imports into the United States The first Samoyed registered with The American Kennel Club in the United States, Russian Champion Moustan of Argenteau, came from St. Petersburg, Russia from Grand Duke Nicholas, a brother of the Czar. Survivors and descendants of the polar expedition sledge teams were bred in England for their beauty as well as their working attributes. Ms. Ivy Kilburn-Scott was very instrumental in establishing the breed in England with her selective breeding of Samoyeds. It was around this time, that black and brown were eliminated from breeding pools although pictures remain of Peter the Great and his offspring (some were black) who competed successfully in the conformation ring in England. Almost all Samoyeds living today in the United States can be traced back to about 12 key dogs that were used in early breeding programs in England. One of the truly great sires in the breed was English Champion Kara Sea, who figured prominently in many breeding programs on both sides of the Atlantic Ocean."
+      blog_content4: "The polar expeditions demonstrated the versatility and true working nature of the Samoyed and the contributions made by the Samoyeds are unmatched in the canine world. Samoyeds featured prominently in the Arctic and Antarctic polar expeditions of Abruzzi, Amundson, Jackson-Harmsworth, Nansen, and Shackelton between 1870 and 1912. Dogs were procured from Siberia for the expeditions and were called “Samoyeds” as they came from the land where the Samoyede tribe lived. With the passing of time, the “e” was dropped from “Samoyede.” The draft animals proved more capable than ponies, horses, oxen, or mules in the Arctic and Antarctic and, on a per weight basis, did not consume as much food and could travel longer distances before tiring. Because of its adaptability to cold temperatures, a cousin of the Samoyed, the Laika dog, was the first canine used in outer space; this occurred when the Russians launched a Sputnik satellite on November 3, 1957 with a Laika dog aboard as the lone passenger. A beautiful breed, the Samoyed appeared in the courts of Czar Alexander III of Russia and Queen Alexandra of England over a century ago. The First Imports into the United States The first Samoyed registered with The American Kennel Club in the United States, Russian Champion Moustan of Argenteau, came from St. Petersburg, Russia from Grand Duke Nicholas, a brother of the Czar. Survivors and descendants of the polar expedition sledge teams were bred in England for their beauty as well as their working attributes. Ms. Ivy Kilburn-Scott was very instrumental in establishing the breed in England with her selective breeding of Samoyeds. It was around this time, that black and brown were eliminated from breeding pools although pictures remain of Peter the Great and his offspring (some were black) who competed successfully in the conformation ring in England. Almost all Samoyeds living today in the United States can be traced back to food 12 key dogs that were used in early breeding programs in England. One of the truly great sires in the breed was English Champion Kara Sea, who figured prominently in many breeding programs on both sides of the Atlantic Ocean."
       blog_header1: "History of the Samoyed Breed"
       blog_credits: "By Yunrong Gu "
       blog_time: "May. 3, 2015 | 16:42 p.m. PST"
